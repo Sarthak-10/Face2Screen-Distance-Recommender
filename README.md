@@ -2,7 +2,8 @@ This project was submitted to Byld+WiT Hackthon 2021
 
 The project is basically a combination of two themes - Healthcare and I can't Learn Online.
 
-In the project we have looked upon the problem of increased screen time during online classes which adversely affects the eyes of students.
+In the project we have looked upon the problem of increased screen time during online classes which adversely affects the eyes of students.While attending the classes we tend to bring our face too close to the screen,which hampers the health of our eyes.Our project helps tackle the same.
+
 The project uses Computer Vision to detect the face of student and continuously displays the distance of the face from the computer screen.
 When the distance becomes less than 30 cm then the program tells the students to maintain distance from the screen by means of a popup.
 
