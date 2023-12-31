@@ -1,4 +1,4 @@
-### Face2Screen-Distance-Recommender
+# Face2Screen-Distance-Recommender
 
 :star:**Please star the repository if you happen to like the project**
 
